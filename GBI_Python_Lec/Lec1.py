@@ -55,9 +55,8 @@
 #         line += '+'
 #     print(line)
 
-text = 'съешь еще этих мягких французских булок'
-
-print(text[0])              #c
+# text = 'съешь еще этих мягких французских булок'
+# print(text[0])              #c
 # print(text[1])              #ъ
 # print(text[len(text)-1])    #к
 # print(text[-1])             #к
